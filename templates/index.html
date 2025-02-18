@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transaction Dashboard</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+    <script defer src="{{ url_for('static', filename='scripts.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <div class="dashboard">
+      <div class="header">
+        <h1>Financial Dashboard</h1>
+      </div>
+
+      <div class="balance-card">
+        <h3>Total Transactions Amount</h3>
+        <div class="balance-amount">... RWF</div>
+      </div>
+
+      <div class="charts-grid">
+        <div class="chart-container">
+          <h2>Transaction Volume</h2>
+          <canvas id="transactionVolume"></canvas>
+        </div>
+        <div class="chart-container">
+          <h2>Transaction Distribution</h2>
+          <canvas id="transactionDistribution"></canvas>
+        </div>
+        <div class="chart-container">
+          <h2>Volume by Transaction Type</h2>
+          <canvas id="volumeByType"></canvas>
+        </div>
+        <div class="chart-container">
+          <h2>Payments vs Deposits</h2>
+          <canvas id="paymentsVsDeposits"></canvas>
+        </div>
+      </div>
+
+      <div class="search-filters">
+        <input
+          type="text"
+          class="search-input"
+          id="search"
+          placeholder="Search transaction by amount..."
+        />
+        <select class="filter-select" id="type-filter">
+          <option value="">All Types</option>
+        </select>
+        <input type="date" class="filter-select" id="date-filter" />
+        <button id="reset-filters" class="filter-select" style="width: 100%">
+          Reset Filters
+        </button>
+      </div>
+
+      <div class="transactions-table">
+        <h2>Recent Transactions</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Type</th>
+              <th>Amount</th>
+              <th>Balance</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </body>
+</html>

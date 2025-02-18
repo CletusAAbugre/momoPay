@@ -1,0 +1,380 @@
+[
+    {
+        "transaction_id": 14,
+        "amount": 25000,
+        "date": "14 May 2024 9:01:09 PM",
+        "body": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD on your MOMO account was successfully completed at 2024-05-14 21:01:00. Message from debit receiver: . Your new balance:4060 RWF. Fee was 0 RWF. Financial Transaction Id: 13947831685. External Transaction Id: 47842929.*EN#"
+    },
+    {
+        "transaction_id": 92,
+        "amount": 600,
+        "date": "6 Jun 2024 4:19:08 PM",
+        "body": "*164*S*Y'ello,A transaction of 600 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-06- 06 16:19:01. Message from debit receiver: ITEC Pay. Your new balance:230 RWF. Fee was 0 RWF. Financial Transaction Id: 14262449979. External Transaction Id: c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310.*EN#"
+    },
+    {
+        "transaction_id": 103,
+        "amount": 2000,
+        "date": "11 Jun 2024 6:26:18 AM",
+        "body": "Yello!Umaze kugura 2000Rwf(1GB)/30days igura 2,000 RWF"
+    },
+    {
+        "transaction_id": 126,
+        "amount": 25000,
+        "date": "14 Jun 2024 7:52:16 AM",
+        "body": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD on your MOMO account was successfully completed at 2024-06-14 07:52:10. Message from debit receiver: . Your new balance:4750 RWF. Fee was 0 RWF. Financial Transaction Id: 14366722236. External Transaction Id: 48214394.*EN#"
+    },
+    {
+        "transaction_id": 140,
+        "amount": 8000,
+        "date": "15 Jun 2024 9:29:05 PM",
+        "body": "*164*S*Y'ello,A transaction of 8000 RWF by ESICIA LTD KPAY on your MOMO account was successfully completed at 2024-06-15 21:28:58. Message from debit receiver: 1599236171847972758074646. Your new balance:4110 RWF. Fee was 0 RWF. Financial Transaction Id: 14392932831. External Transaction Id: E39762254KPY1718479727.*EN#"
+    },
+    {
+        "transaction_id": 147,
+        "amount": 5000,
+        "date": "16 Jun 2024 7:26:07 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Future Dynamic Innovations ltd on your MOMO account was successfully completed at 2024-06-16 19:25:44. Message from debit receiver: 610. Your new balance:9350 RWF. Fee was 0 RWF. Financial Transaction Id: 14404189056. External Transaction Id: 475e95b8a1d049c2ba9ee675401d9332.*EN#"
+    },
+    {
+        "transaction_id": 161,
+        "amount": 2000,
+        "date": "19 Jun 2024 6:15:59 PM",
+        "body": "Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF"
+    },
+    {
+        "transaction_id": 212,
+        "amount": 2000,
+        "date": "28 Jun 2024 6:00:51 PM",
+        "body": "Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF"
+    },
+    {
+        "transaction_id": 215,
+        "amount": 20000,
+        "date": "29 Jun 2024 12:32:25 AM",
+        "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-06-29 00:32:19. Message from debit receiver: 250795963036. Your new balance:21670 RWF. Fee was 0 RWF. Financial Transaction Id: 14574631016. External Transaction Id: 169587820240628223202678996.*EN#"
+    },
+    {
+        "transaction_id": 220,
+        "amount": 20000,
+        "date": "29 Jun 2024 4:07:00 PM",
+        "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-06-29 16:06:06. Message from debit receiver: 250795963036. Your new balance:45870 RWF. Fee was 0 RWF. Financial Transaction Id: 14582579702. External Transaction Id: 169710420240629140334182447.*EN#"
+    },
+    {
+        "transaction_id": 248,
+        "amount": 500,
+        "date": "4 Jul 2024 2:03:05 PM",
+        "body": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+    },
+    {
+        "transaction_id": 279,
+        "amount": 500,
+        "date": "11 Jul 2024 9:26:00 AM",
+        "body": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+    },
+    {
+        "transaction_id": 287,
+        "amount": 2000,
+        "date": "14 Jul 2024 3:19:25 PM",
+        "body": "*164*S*Y'ello,A transaction of 2000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-07-14 15:19:17. Message from debit receiver: . Your new balance:27570 RWF. Fee was 0 RWF. Financial Transaction Id: 14807754878. External Transaction Id: 17209629782498301.*EN#"
+    },
+    {
+        "transaction_id": 316,
+        "amount": 3000,
+        "date": "20 Jul 2024 9:24:12 PM",
+        "body": "A reversal has been initiated for your transaction to Mediatrice UWAYISENGA (250788658286) with 3000 RWF."
+    },
+    {
+        "transaction_id": 320,
+        "amount": 200,
+        "date": "21 Jul 2024 6:19:33 PM",
+        "body": "Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF"
+    },
+    {
+        "transaction_id": 328,
+        "amount": 500,
+        "date": "23 Jul 2024 9:22:21 PM",
+        "body": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+    },
+    {
+        "transaction_id": 339,
+        "amount": 2000,
+        "date": "26 Jul 2024 12:10:44 AM",
+        "body": "Yello!Umaze kugura 2000Rwf(1.5GB) igura 2,000 RWF"
+    },
+    {
+        "transaction_id": 361,
+        "amount": 3000,
+        "date": "1 Aug 2024 1:23:54 PM",
+        "body": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+    },
+    {
+        "transaction_id": 363,
+        "amount": 500,
+        "date": "1 Aug 2024 7:03:20 PM",
+        "body": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+    },
+    {
+        "transaction_id": 371,
+        "amount": 1000,
+        "date": "3 Aug 2024 4:42:20 PM",
+        "body": "Yello!Umaze kugura 1000Rwf(1GB) igura 1,000 RWF"
+    },
+    {
+        "transaction_id": 382,
+        "amount": 200,
+        "date": "5 Aug 2024 5:15:33 PM",
+        "body": "Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF"
+    },
+    {
+        "transaction_id": 386,
+        "amount": 1000,
+        "date": "6 Aug 2024 8:22:15 PM",
+        "body": "Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF"
+    },
+    {
+        "transaction_id": 398,
+        "amount": 1000,
+        "date": "8 Aug 2024 9:19:26 PM",
+        "body": "Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF"
+    },
+    {
+        "transaction_id": 400,
+        "amount": 25000,
+        "date": "24 Aug 2024 10:23:48 AM",
+        "body": "1) 2024-08-23 DEPOSIT RWF 25000 Receiver: 250795963036 Sender: Fee: RWF"
+    },
+    {
+        "transaction_id": 415,
+        "amount": 5000,
+        "date": "29 Aug 2024 9:30:42 AM",
+        "body": "Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF"
+    },
+    {
+        "transaction_id": 438,
+        "amount": 5000,
+        "date": "6 Sep 2024 4:38:06 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-09-06 16:37:52. Message from debit receiver: . Your new balance:890 RWF. Fee was 0 RWF. Financial Transaction Id: 15606505500. External Transaction Id: 17256333763041376.*EN#"
+    },
+    {
+        "transaction_id": 452,
+        "amount": 20000,
+        "date": "8 Sep 2024 1:12:49 AM",
+        "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-09-08 01:12:33. Message from debit receiver: 250795963036. Your new balance:103260 RWF. Fee was 0 RWF. Financial Transaction Id: 15628862865. External Transaction Id: 188160120240907231214390890.*EN#"
+    },
+    {
+        "transaction_id": 480,
+        "amount": 3000,
+        "date": "11 Sep 2024 3:44:05 PM",
+        "body": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+    },
+    {
+        "transaction_id": 505,
+        "amount": 10500,
+        "date": "15 Sep 2024 10:59:12 PM",
+        "body": "*164*S*Y'ello,A transaction of 10500 RWF by ESICIA LTD KPAY on your MOMO account was successfully completed at 2024-09-15 22:59:03. Message from debit receiver: 1727901172643392758074144. Your new balance:24750 RWF. Fee was 0 RWF. Financial Transaction Id: 15747282067. External Transaction Id: E42267291KPY1726433927.*EN#"
+    },
+    {
+        "transaction_id": 514,
+        "amount": 5000,
+        "date": "18 Sep 2024 2:17:20 PM",
+        "body": "Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF"
+    },
+    {
+        "transaction_id": 527,
+        "amount": 14200,
+        "date": "21 Sep 2024 3:49:09 PM",
+        "body": "*143*R*Y'ello, the transaction with amount 14200 RWF for ESICIA LTD with message: 1734874172692585358074144 failed at 2024-09-21 15:49:01 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#"
+    },
+    {
+        "transaction_id": 548,
+        "amount": 200,
+        "date": "24 Sep 2024 6:38:00 PM",
+        "body": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-09- 24 18:37:52. Message from debit receiver: ITEC Pay. Your new balance:1180 RWF. Fee was 0 RWF. Financial Transaction Id: 15874896437. External Transaction Id: 68d6367d-f56d-4436-a31f-6f59aeb70ef3.*EN#"
+    },
+    {
+        "transaction_id": 560,
+        "amount": 5000,
+        "date": "28 Sep 2024 1:16:19 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-09-28 13:16:02. Message from debit receiver: . Your new balance:11310 RWF. Fee was 0 RWF. Financial Transaction Id: 15930732191. External Transaction Id: 17275220792115073.*EN#"
+    },
+    {
+        "transaction_id": 563,
+        "amount": 13000,
+        "date": "28 Sep 2024 10:56:58 PM",
+        "body": "*164*S*Y'ello,A transaction of 13000 RWF by ESICIA LTD KPAY on your MOMO account was successfully completed at 2024-09-28 22:56:50. Message from debit receiver: 1745596172755699358074193. Your new balance:43210 RWF. Fee was 0 RWF. Financial Transaction Id: 15940915096. External Transaction Id: E42831629KPY1727556993.*EN#"
+    },
+    {
+        "transaction_id": 582,
+        "amount": 25000,
+        "date": "3 Oct 2024 5:49:30 PM",
+        "body": "*164*S*Y'ello,A transaction of 25000 RWF by IREMBO Ltd on your MOMO account was successfully completed at 2024-10-03 17:49:18. Message from debit receiver: 881003055321. Your new balance:4012 RWF. Fee was 0 RWF. Financial Transaction Id: 16030998575. External Transaction Id: 881003055321.*EN#"
+    },
+    {
+        "transaction_id": 587,
+        "amount": 5000,
+        "date": "4 Oct 2024 8:28:23 AM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-04 08:27:12. Message from debit receiver: . Your new balance:3512 RWF. Fee was 0 RWF. Financial Transaction Id: 16040688508. External Transaction Id: 17280230723010910.*EN#"
+    },
+    {
+        "transaction_id": 597,
+        "amount": 3000,
+        "date": "7 Oct 2024 2:37:09 PM",
+        "body": "*143*S*Your transaction to Mediatrice UWAYISENGA (250788658286) with 3000 RWF has been reversed at 2024-10-07 14:37:00. Your new balance is 10312 RWF. .Thank you for using MTN MobileMoney.*EN#"
+    },
+    {
+        "transaction_id": 611,
+        "amount": 11600,
+        "date": "11 Oct 2024 2:01:09 PM",
+        "body": "*143*R*Y'ello, the transaction with amount 11600 RWF for ESICIA LTD with message: 1763055172864732058074359 failed at 2024-10-11 14:00:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#"
+    },
+    {
+        "transaction_id": 612,
+        "amount": 11600,
+        "date": "11 Oct 2024 2:05:43 PM",
+        "body": "*164*S*Y'ello,A transaction of 11600 RWF by ESICIA LTD on your MOMO account was successfully completed at 2024-10-11 14:03:20. Message from debit receiver: 1763055172864803458074359RETRY. Your new balance:69655 RWF. Fee was 0 RWF. Financial Transaction Id: 16178728333. External Transaction Id: E43388184PYR1728648034.*EN#"
+    },
+    {
+        "transaction_id": 613,
+        "amount": 5000,
+        "date": "11 Oct 2024 4:39:23 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-11 16:39:11. Message from debit receiver: . Your new balance:24655 RWF. Fee was 0 RWF. Financial Transaction Id: 16181431637. External Transaction Id: 17286575112418450.*EN#"
+    },
+    {
+        "transaction_id": 621,
+        "amount": 3000,
+        "date": "13 Oct 2024 9:37:55 AM",
+        "body": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+    },
+    {
+        "transaction_id": 628,
+        "amount": 5000,
+        "date": "16 Oct 2024 10:48:39 AM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-16 10:48:32. Message from debit receiver: . Your new balance:128151 RWF. Fee was 0 RWF. Financial Transaction Id: 16269196928. External Transaction Id: 17290684883032395.*EN#"
+    },
+    {
+        "transaction_id": 635,
+        "amount": 5000,
+        "date": "19 Oct 2024 11:50:37 AM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by IREMBO Ltd on your MOMO account was successfully completed at 2024-10-19 11:50:25. Message from debit receiver: 881019247301. Your new balance:10750 RWF. Fee was 0 RWF. Financial Transaction Id: 16327063889. External Transaction Id: 881019247301.*EN#"
+    },
+    {
+        "transaction_id": 637,
+        "amount": 10000,
+        "date": "20 Oct 2024 9:08:53 PM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-20 21:07:16. Message from debit receiver: . Your new balance:122472 RWF. Fee was 0 RWF. Financial Transaction Id: 16356106165. External Transaction Id: 17294511812484189.*EN#"
+    },
+    {
+        "transaction_id": 686,
+        "amount": 10000,
+        "date": "2 Nov 2024 12:47:51 AM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-11-02 00:47:43. Message from debit receiver: 250795963036. Your new balance:14372 RWF. Fee was 0 RWF. Financial Transaction Id: 16591010120. External Transaction Id: 194832520241101224717179801.*EN#"
+    },
+    {
+        "transaction_id": 709,
+        "amount": 5000,
+        "date": "6 Nov 2024 10:27:43 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-06 22:27:32. Message from debit receiver: . Your new balance:41167 RWF. Fee was 0 RWF. Financial Transaction Id: 16684572153. External Transaction Id: 17309248153046681.*EN#"
+    },
+    {
+        "transaction_id": 733,
+        "amount": 5000,
+        "date": "12 Nov 2024 11:58:08 PM",
+        "body": "*143*R*Y'ello, the transaction with amount 5000 RWF for Data Bundle MTN with message: failed at 2024-11-12 23:58:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#"
+    },
+    {
+        "transaction_id": 734,
+        "amount": 5000,
+        "date": "13 Nov 2024 1:13:56 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-13 13:13:44. Message from debit receiver: . Your new balance:7022 RWF. Fee was 0 RWF. Financial Transaction Id: 16811450681. External Transaction Id: 17314963852425107.*EN#"
+    },
+    {
+        "transaction_id": 735,
+        "amount": 2000,
+        "date": "13 Nov 2024 2:45:31 PM",
+        "body": "Yello!Umaze kugura 2000Frw=1000Mins+50SMS igura 2,000 RWF"
+    },
+    {
+        "transaction_id": 744,
+        "amount": 10000,
+        "date": "16 Nov 2024 1:15:06 PM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-16 13:14:55. Message from debit receiver: . Your new balance:10202 RWF. Fee was 0 RWF. Financial Transaction Id: 16870426837. External Transaction Id: 17317556402493740.*EN#"
+    },
+    {
+        "transaction_id": 801,
+        "amount": 5000,
+        "date": "30 Nov 2024 12:49:49 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-30 12:48:40. Message from debit receiver: . Your new balance:12012 RWF. Fee was 0 RWF. Financial Transaction Id: 17146971568. External Transaction Id: 17329636532769188.*EN#"
+    },
+    {
+        "transaction_id": 804,
+        "amount": 200,
+        "date": "30 Nov 2024 2:39:12 PM",
+        "body": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-11- 30 14:39:06. Message from debit receiver: ITEC Pay. Your new balance:79492 RWF. Fee was 0 RWF. Financial Transaction Id: 17149096701. External Transaction Id: 65c28253-1297-4c0d-b38b-8edec42fa2e2.*EN#"
+    },
+    {
+        "transaction_id": 815,
+        "amount": 300,
+        "date": "2 Dec 2024 4:22:41 PM",
+        "body": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 02 16:22:35. Message from debit receiver: ITEC Pay. Your new balance:122044 RWF. Fee was 0 RWF. Financial Transaction Id: 17192081844. External Transaction Id: 96218fc3-5668-401b-bf53-4fd66a9e276f.*EN#"
+    },
+    {
+        "transaction_id": 817,
+        "amount": 10000,
+        "date": "2 Dec 2024 6:12:35 PM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-02 18:12:28. Message from debit receiver: . Your new balance:103944 RWF. Fee was 0 RWF. Financial Transaction Id: 17194680435. External Transaction Id: 17331559272498010.*EN#"
+    },
+    {
+        "transaction_id": 824,
+        "amount": 400,
+        "date": "3 Dec 2024 9:17:25 PM",
+        "body": "*164*S*Y'ello,A transaction of 400 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 03 21:17:17. Message from debit receiver: ITEC Pay. Your new balance:20524 RWF. Fee was 0 RWF. Financial Transaction Id: 17219848993. External Transaction Id: 6ed516b1-6031-4395-9072-b895b96561e7.*EN#"
+    },
+    {
+        "transaction_id": 826,
+        "amount": 300,
+        "date": "4 Dec 2024 6:17:23 PM",
+        "body": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 04 18:17:17. Message from debit receiver: ITEC Pay. Your new balance:15124 RWF. Fee was 0 RWF. Financial Transaction Id: 17236283233. External Transaction Id: 2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9.*EN#"
+    },
+    {
+        "transaction_id": 829,
+        "amount": 900,
+        "date": "6 Dec 2024 7:22:52 PM",
+        "body": "*164*S*Y'ello,A transaction of 900 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 06 19:22:45. Message from debit receiver: ITEC Pay. Your new balance:9124 RWF. Fee was 0 RWF. Financial Transaction Id: 17278839589. External Transaction Id: 9838017e-bba5-4d1f-b7a9-e57bc604e41d.*EN#"
+    },
+    {
+        "transaction_id": 849,
+        "amount": 3000,
+        "date": "13 Dec 2024 4:30:14 PM",
+        "body": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+    },
+    {
+        "transaction_id": 867,
+        "amount": 10000,
+        "date": "16 Dec 2024 9:01:30 AM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-16 08:58:31. Message from debit receiver: . Your new balance:10191 RWF. Fee was 0 RWF. Financial Transaction Id: 17469774285. External Transaction Id: 17343322613083864.*EN#"
+    },
+    {
+        "transaction_id": 913,
+        "amount": 10000,
+        "date": "28 Dec 2024 8:03:06 AM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-28 08:02:55. Message from debit receiver: . Your new balance:5864 RWF. Fee was 0 RWF. Financial Transaction Id: 17725876735. External Transaction Id: 17353657322483063.*EN#"
+    },
+    {
+        "transaction_id": 960,
+        "amount": 5000,
+        "date": "12 Jan 2025 2:20:54 PM",
+        "body": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2025-01-12 14:20:37. Message from debit receiver: . Your new balance:17873 RWF. Fee was 0 RWF. Financial Transaction Id: 18044804543. External Transaction Id: 17366843252778824.*EN#"
+    },
+    {
+        "transaction_id": 964,
+        "amount": 3000,
+        "date": "13 Jan 2025 2:43:07 PM",
+        "body": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+    },
+    {
+        "transaction_id": 968,
+        "amount": 10000,
+        "date": "14 Jan 2025 5:29:43 PM",
+        "body": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2025-01-14 17:29:36. Message from debit receiver: . Your new balance:88000 RWF. Fee was 0 RWF. Financial Transaction Id: 18087757600. External Transaction Id: 17368685383021954.*EN#"
+    }
+]
