@@ -70,6 +70,7 @@ def setup_database():
 
         conn.commit()
         print("Database setup completed successfully.")
+        print("Inserting rows into tables. Please wait patiently.")
 
         
         cur.close()
@@ -84,18 +85,7 @@ def setup_database():
         conn.close()
 
 
-def insert_transaction_details(transaction_id, status, description, additional_info):
-    
-    conn = psycopg2.connect(
-        dbname="momo_pay",
-        user="postgres",  
-        password="lorita123",  
-        host="localhost",
-        port="5432"
-    )
-    cur = conn.cursor()
-
-    
+def insert_transaction_details(conn, cur, transaction_id, status, description, additional_info):  
     if transaction_id == "N/A":
         return
 
@@ -110,10 +100,6 @@ def insert_transaction_details(transaction_id, status, description, additional_i
     except Exception as e:
         print(f"Error inserting transaction details: {e}")
         conn.rollback()
-
-    finally:
-        cur.close()
-        conn.close()
 
 
 def insert_transactions_from_xml(xml_file_path):
@@ -197,7 +183,7 @@ def insert_transactions_from_xml(xml_file_path):
             conn.commit()
 
             
-            insert_transaction_details(transaction_id, "Completed", "Transaction completed", {"note": "Automated transaction"})
+            insert_transaction_details(conn, cur, transaction_id, "Completed", "Transaction completed", {"note": "Automated transaction"})
         
         except Exception as e:
             conn.rollback()
@@ -213,4 +199,3 @@ def insert_transactions_from_xml(xml_file_path):
     
     with open("uncategorized_logs.json", "w") as log_file:
         json.dump(categories["uncategorized"], log_file, indent=4)
-

@@ -31,3 +31,5 @@ DB_CONFIG = {
 }
 step 6: run the app by : 
 python app.py
+
+Video: https://www.loom.com/share/b352545d379a47228c772ae8d2554bd6?sid=9de507c6-0950-4b03-9b36-f4ff1b793fc9
