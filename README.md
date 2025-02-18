@@ -21,18 +21,6 @@ step 3. Install Dependencies:
 pip install -r requirements.txt
 step 4.  Set Up PostgreSQL Database:
 psql -U postgres
-and create database and tables
-CREATE DATABASE momo_pay;
-\c momo_pay
-CREATE TABLE transactions (
-    id SERIAL PRIMARY KEY,
-    sender TEXT,
-    receiver TEXT,
-    amount DECIMAL(10,2),
-    currency VARCHAR(10),
-    transaction_type VARCHAR(50),
-    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
 step 5. Update Database Config in app.py:
 DB_CONFIG = {
     "dbname": "momo_pay",

@@ -46,7 +46,7 @@ def setup_database():
     
     try:
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS transactions (
+            CREATE TABLE transactions (
                 id SERIAL PRIMARY KEY,
                 body TEXT,
                 amount NUMERIC(10, 2),
@@ -59,7 +59,7 @@ def setup_database():
 
         
         cur.execute("""
-            CREATE TABLE IF NOT EXISTS transaction_details (
+            CREATE TABLE transaction_details (
                 id SERIAL PRIMARY KEY,
                 transaction_id VARCHAR(60) REFERENCES transactions(transaction_id),
                 status VARCHAR(50),
